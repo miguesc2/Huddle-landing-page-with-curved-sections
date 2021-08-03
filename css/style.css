@@ -229,6 +229,7 @@ body {
     outline: none;
     border: none;
     font-family: var(--font-sans);
+    font-size: 1em;
 }
 
 .footer__submit {
